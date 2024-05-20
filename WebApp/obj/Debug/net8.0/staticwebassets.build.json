@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "IElRMG0QKhaV4gI3oBWhdDk7R/Hru0SDw1/gfAhm+2A=",
+  "Source": "WebApp",
+  "BasePath": "_content/WebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApp\\wwwroot",
+      "Source": "WebApp",
+      "ContentRoot": "C:\\Users\\Администратор\\Desktop\\Gym-Managment-System-main\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Администратор\\Desktop\\Gym-Managment-System-main\\WebApp\\wwwroot\\images\\1c9da5b5-1a35-4f03-8098-2ee7b85e08e5.jpg",
+      "PackagePath": "staticwebassets\\images\\1c9da5b5-1a35-4f03-8098-2ee7b85e08e5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Администратор\\Desktop\\Gym-Managment-System-main\\WebApp\\wwwroot\\images\\2288d072-22d8-41ce-9403-ac02037d5513.jpg",
+      "PackagePath": "staticwebassets\\images\\2288d072-22d8-41ce-9403-ac02037d5513.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Администратор\\Desktop\\Gym-Managment-System-main\\WebApp\\wwwroot\\images\\3e7072b4-4861-475e-87f3-5e3d14b5ae08.jpg",
+      "PackagePath": "staticwebassets\\images\\3e7072b4-4861-475e-87f3-5e3d14b5ae08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Администратор\\Desktop\\Gym-Managment-System-main\\WebApp\\wwwroot\\images\\7dfd79bb-111c-4ecf-9ade-49929532ee08.jpg",
+      "PackagePath": "staticwebassets\\images\\7dfd79bb-111c-4ecf-9ade-49929532ee08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Администратор\\Desktop\\Gym-Managment-System-main\\WebApp\\wwwroot\\images\\f22d809f-1952-468e-b16c-eb0c967a376d.jpg",
+      "PackagePath": "staticwebassets\\images\\f22d809f-1952-468e-b16c-eb0c967a376d.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApp.props",
+      "PackagePath": "build\\WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApp.props",
+      "PackagePath": "buildMultiTargeting\\WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApp.props",
+      "PackagePath": "buildTransitive\\WebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
